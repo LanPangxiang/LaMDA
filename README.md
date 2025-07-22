@@ -1,4 +1,4 @@
-# LaMDA
+# LaMDA: LLM-Driven Multi-Perspective POI Completion for Next POI Recommendations
 ## 📦 Environment
 1. Clone this repository to your local machine.
 
